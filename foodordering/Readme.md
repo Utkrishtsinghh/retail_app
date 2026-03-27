@@ -1,8 +1,8 @@
-# Foodie Ordering System 🍕🥤
+# Foodie Ordering System 
 
 A full-stack food ordering application built with **Angular (v17+)** and **.NET 8 (C# Web API)**. The application features a robust customer shopping cart, order tracking, JWT-based authentication, and a dedicated Admin Dashboard. 
 
-## 📦 Prerequisites
+## Prerequisites
 If someone is downloading this project to their local machine, they MUST install the following software first:
 
 1. [Node.js](https://nodejs.org/) (v18 or newer) - *Required for the Angular Frontend (npm).*
