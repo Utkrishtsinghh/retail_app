@@ -7,7 +7,7 @@ namespace Backend.Models
         public int Id { get; set; }
         public int UserId { get; set; }
         public decimal TotalAmount { get; set; }
-        public string Status { get; set; } = "Pending"; // Pending, Processing, Shipped, Delivered, Cancelled
+        public string Status { get; set; } = "Pending"; 
         public string DeliveryAddress { get; set; } = string.Empty;
         public System.DateTime CreatedAt { get; set; } = System.DateTime.UtcNow;
 
