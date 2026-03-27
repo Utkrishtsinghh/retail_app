@@ -12,6 +12,6 @@ namespace Backend.Models
         [Required]
         public string PasswordHash { get; set; } = string.Empty;
         
-        public string Role { get; set; } = "User"; // "User" or "Admin"
+        public string Role { get; set; } = "User"; 
     }
 }
