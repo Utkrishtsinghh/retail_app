@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Backend",
+    "\\Backend\\Models",
+    "\\Frontend",
+    "\\Frontend\\public",
+    "\\Frontend\\src",
+    "\\Frontend\\src\\app",
+    "\\Frontend\\src\\app\\components",
+    "\\Frontend\\src\\app\\guards",
+    "\\Frontend\\src\\app\\services"
+  ],
+  "SelectedNode": "\\Backend\\Controllers\\OrdersController.cs",
+  "PreviewInSolutionExplorer": false
+}
